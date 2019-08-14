@@ -1,0 +1,19 @@
+{
+  "name": "nimiqtipreddit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nimiq/core": "^1.4.3",
+    "@types/node": "^12.7.1",
+    "canvas": "^2.6.0",
+    "jsdom": "^15.1.1",
+    "typescript": "^3.5.3"
+  }
+}
